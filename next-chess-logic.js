@@ -14,7 +14,7 @@ function beginGame(nfen){
     if(nfen === undefined){
         nfen = STANDARD_NFEN;
     }
-
+    //Monkey man
 }
 
 //Check for win basically?
