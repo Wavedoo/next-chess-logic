@@ -15,7 +15,9 @@ function beginGame(nfen){
         nfen = STANDARD_NFEN;
     }
     //Monkey man
+    //Test 2
 }
+//123
 
 //Check for win basically?
 function gameStatus(half_moves){
