@@ -18,6 +18,7 @@ function beginGame(nfen){
     //Test 2
 }
 //123
+//final test commit
 
 //Check for win basically?
 function gameStatus(half_moves){
